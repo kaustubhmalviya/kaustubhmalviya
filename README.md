@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Malviya</h1>
 <h3 align="center">Passionate about uncovering meaningful insights from data. Let's connect and explore the exciting possibilities that lie ahead in the world of computer science!</h3> 
-
+ 
 - 🔭 I’m currently working on **Machine learning projects**
   
 - 🌱 I’m currently learning **Machine Learning**
